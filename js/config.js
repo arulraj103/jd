@@ -5,8 +5,6 @@ const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBh
 
 // Single shared Supabase client used across the site
 const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
-// Single shared Supabase client used across the site
-const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 // Owner's WhatsApp number for one-time bookings (E.164 format, no + or spaces)
 // TODO: replace with the real business WhatsApp number
