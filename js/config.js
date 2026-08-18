@@ -1,7 +1,7 @@
 // =========================================================
 // Supabase project configuration
 // =========================================================
-const SUPABASE_URL = 'https://vwvxfalgsebxpshooyxs.supabase.co';
+const SUPABASE_URL = 'https://vwvxfalgsebxpshooyxs.supabase.com';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ3dnhmYWxnc2VieHBzaG9veXhzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYyOTQ5MzcsImV4cCI6MjEwMTg3MDkzN30.vlX-pjS_MBi-bfLAy91gff99yzyNMjiJVaulqZjC0vY';
 
 // Single shared Supabase client used across the site
